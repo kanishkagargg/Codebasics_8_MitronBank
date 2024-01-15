@@ -9,7 +9,9 @@ I have used following tools to complete this project:
     
     3) Microsoft PowerPoint    
 
-Here, ![Screenshot (1265)](https://github.com/kanishkagargg/Codebasics_8_MitronBank/assets/140965958/a551655a-1948-4028-9c28-aab7201ff166)
+Here is a glipmse of the tableau dashboard:
+For live interactive dashboard visit: https://public.tableau.com/app/profile/kanishka.garg/viz/Codebasics8/Dashboard
+![Screenshot (1265)](https://github.com/kanishkagargg/Codebasics_8_MitronBank/assets/140965958/a551655a-1948-4028-9c28-aab7201ff166)
 
     
 In this project, Mitron Bank, a well-established financial institution headquartered in Hyderabad, is keen on expanding its product offerings and market presence by launching a new line of credit cards. AtliQ Data Services became aware of this initiative through an internal link and approached Mitron Bank with a proposal to execute the project. However, Mr. Bashnir Rover, the strategy director at Mitron Bank, expressed skepticism and requested a pilot project with the sample data before entrusting them with the full-scale implementation.
