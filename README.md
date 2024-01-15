@@ -7,7 +7,9 @@ I have used following tools to complete this project:
     
     2) Tableau
     
-    3) Microsoft PowerPoint
+    3) Microsoft PowerPoint    
+
+Here, 
     
 In this project, Mitron Bank, a well-established financial institution headquartered in Hyderabad, is keen on expanding its product offerings and market presence by launching a new line of credit cards. AtliQ Data Services became aware of this initiative through an internal link and approached Mitron Bank with a proposal to execute the project. However, Mr. Bashnir Rover, the strategy director at Mitron Bank, expressed skepticism and requested a pilot project with the sample data before entrusting them with the full-scale implementation.
 
